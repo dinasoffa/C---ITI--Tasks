@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668384850 source:d:\new folder\lab5.2\main.cpp
+	<iostream>
+	<cstdlib>
+
